@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402123760803",
+    "project_id": "notesapp-cb350",
+    "storage_bucket": "notesapp-cb350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402123760803:android:95016981d31aea489a0b16",
+        "android_client_info": {
+          "package_name": "com.example.to_do_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0nEJVQ60rJfxAY75wdS33uSRe-x9FJjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
